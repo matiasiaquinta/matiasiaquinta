@@ -1,16 +1,24 @@
-### Hi there 👋
+<h3 align="center">Licenciado en Diseño Multimedial</h3>
+<h1 align="center">Hola 👋 soy Matias Karim Iaquinta</h1>
 
-<!--
-**matiasiaquinta/matiasiaquinta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<a href="https://linkedin.com/in/matiasiaquinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiasiaquinta" height="30" width="40" /></a>
+<a href="https://www.behance.net/matias-iaquinta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="matias-iaquinta" height="30" width="40" /></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+<br>
+
+🔭 Actualmente estoy trabajando en mi consultora [Fusionar IT](https://fusionarit.com.ar/)
+
+👨‍💻 Tengo conocimientos de **Front End, Back End y desarrollo de videojuegos**
+
+🌱 Actualmente estoy aprendiendo sobre **Maquetado Web con Astro, React, GSAP y Data Engineering**
+
+⚡ Tecnologías y lenguajes que he trabajado:
+
+  - Desarrollo Web Frontend: **HTML | CSS | JS**
+  - Desarrollo Web Backend: **Python | PHP**
+  - Diseño: **Figma | Adobe Photoshop | Adobe Illustrator**
+  - Videojuegos: **Unity3D | C#**
+  - Base de Datos: **MySQL | PostgreSQL**
