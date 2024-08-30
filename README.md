@@ -13,7 +13,7 @@
 
 👨‍💻 Tengo conocimientos de **Front End, Back End y desarrollo de videojuegos**
 
-🌱 Actualmente estoy aprendiendo sobre **Maquetado Web con Astro, React, GSAP y Data Engineering**
+🌱 Actualmente estoy aprendiendo sobre **Maquetado Web con Astro, React y GSAP**
 
 ⚡ Tecnologías y lenguajes que he trabajado:
 
