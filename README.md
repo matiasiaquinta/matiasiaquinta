@@ -17,8 +17,8 @@
 
 ⚡ Tecnologías y lenguajes que he trabajado:
 
-  - Desarrollo Web Frontend: **HTML | CSS | JS**
-  - Desarrollo Web Backend: **Python | PHP**
+  - Desarrollo Web Frontend: **React | HTML | CSS | JS**
+  - Desarrollo Web Backend: **Node.js | PHP**
   - Diseño: **Figma | Adobe Photoshop | Adobe Illustrator**
-  - Videojuegos: **Unity3D | C#**
-  - Base de Datos: **MySQL | PostgreSQL**
+  - Videojuegos: **Unity3D**
+  - Base de Datos: **MySQL | PostgreSQL | MongoDB**
